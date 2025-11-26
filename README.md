@@ -1,4 +1,4 @@
-# Uma Viewer (2)
+# Uma Viewer
 
 Unity application that makes it easy to view assets from Uma Musume: Pretty Derby.
 
